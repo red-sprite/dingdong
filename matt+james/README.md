@@ -13,11 +13,11 @@ dependencies.
 
 ---
 
-####Create the project using:
+##### Create the project using:
 `expo init dingdong`
 
 Follow the instructions in the terminal. Selecting `blank project` should be ok.
 
-####Run the app using:
+##### Run the app using:
 `cd my-new-project`
 `expo start`
